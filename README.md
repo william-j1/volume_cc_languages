@@ -23,7 +23,7 @@ If the key for your own specific language is not included in this language pack,
 | in    | Desi (Hindi)      |
 | nl    | Dutch             |
 | no    | Norwegian         |
-| no    | New Zealand (en)  |
+| nz    | New Zealand (en)  |
 | pl    | Polish            |
 | pt    | Portuguese        |
 | se    | Swedish           |
