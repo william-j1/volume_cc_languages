@@ -96,7 +96,6 @@
     "EMAIL": "Email",
     "USERNAME": "Username",
     "PASSWORD": "Password",
-    "NEWSLETTER_OPT_IN": "Opt in - receive periodic newsletters?",
     "VERIFY": "Verify",
     "VERIFY_PLACE_HOLDER": "copy verify code...",
     "PASSWORD_FORGOTTEN": "Password Forgotten",
