@@ -1,4 +1,4 @@
-# Volume.cc Language Pack
+# Language Pack
 
 Language JSON-formatted datasets for the volume.cc platform.
 
