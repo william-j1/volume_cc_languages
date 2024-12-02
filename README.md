@@ -4,16 +4,17 @@ Language JSON-formatted datasets for the volume.cc platform.
 
 # Language Inclusion
 
-If the key for your own specific language is not included in this language pack, simply ask for it to be added.
+If the key for your own specific language is not included in this language pack, ask for it to be added.
 
 # Language Indices
 
 |  Key  | Language          |
 |:-----:|-------------------|
 | au    | Australian (en)   |
+| bg    | Bulgarian         |
 | br    | Brazilian (pt-br) |
 | ca    | Canadian (en)     |
-| cn    | Mardarin          |
+| cn    | Mandarin          |
 | de    | German            |
 | en    | British (en)      |
 | es    | Spanish           |
