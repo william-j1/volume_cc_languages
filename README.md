@@ -28,3 +28,4 @@ If the key for your own specific language is not included in this language pack,
 | pt    | Portuguese        |
 | se    | Swedish           |
 | us    | USA (en)          |
+| za    | South Africa      |
