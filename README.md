@@ -29,5 +29,6 @@ If the key for your own specific language is not included in this language pack,
 | pl    | Polish            |
 | pt    | Portuguese        |
 | se    | Swedish           |
+| sk    | Slovak            |
 | us    | USA (en)          |
 | za    | South African     |
