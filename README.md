@@ -17,6 +17,7 @@ If the key for your own specific language is not included in this language pack,
 | cn    | Mandarin          |
 | cz    | Czech Republic    |
 | de    | German            |
+| dk    | Danish            |
 | en    | British (en)      |
 | es    | Spanish           |
 | fi    | Finnish           |
