@@ -15,6 +15,7 @@ If the key for your own specific language is not included in this language pack,
 | br    | Brazilian (pt-br) |
 | ca    | Canadian (en)     |
 | cn    | Mandarin          |
+| cz    | Czech Republic    |
 | de    | German            |
 | en    | British (en)      |
 | es    | Spanish           |
