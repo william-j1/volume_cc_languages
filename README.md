@@ -1,12 +1,12 @@
-# Language Pack
+# Repository
 
 Language JSON-formatted datasets for the volume.cc platform.
 
-# Language Inclusion
+# Inclusion
 
 If the key for your own specific language is not included in this language pack, ask for it to be added.
 
-# Language Indices
+# Key Indices
 
 |  Key  | Language          |
 |:-----:|-------------------|
