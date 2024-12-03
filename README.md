@@ -20,6 +20,7 @@ If the key for your own specific language is not included in this language pack,
 | es    | Spanish           |
 | fi    | Finnish           |
 | fr    | French            |
+| gr    | Greek             |
 | it    | Italian           |
 | in    | Desi (Hindi)      |
 | nl    | Dutch             |
